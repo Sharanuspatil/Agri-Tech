@@ -1,0 +1,2 @@
+# Agri-Tech
+This project is a step towards precision agriculture, where our product acts as an assistant for a farmer. This involves nine functionalities related to agricultural practices, ranging from weed detection, disease detection, crop recommendation, and yield prediction, which farmers need on a daily basis. We are also working on including drones as a part of the project. This project was created using ML and CNN algorithms for all the functionalities and Flask as a model deployment tool for user interfaces.
